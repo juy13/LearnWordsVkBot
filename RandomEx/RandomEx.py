@@ -7,7 +7,7 @@ import random
 import vk_api
 from vk_api.longpoll import VkLongPoll, VkEventType
 from vk_api.upload import VkUpload
-from vk_api.keyboard import VkKeyboard, VkKeyboardColor
+from vk_api.keyboard import VkKeyboard, VkKeyboardColor 
 
 messAPI = 3
 bot = 0
